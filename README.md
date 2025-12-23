@@ -18,8 +18,9 @@ The company has 3 channels to sell their products to consumers, these are:
 ## Key Learning
 1. Domain knowledge
 2. SQL Joins, Subqueries, CTEs
-3. User defined functions
-4. Stored procedures
-5. Database views
-6. Database triggers, events
-7. Temporary tables
+3. User defined functions:
+   ![fiscal_year](fiscal_year.png)
+5. Stored procedures
+6. Database views
+7. Database triggers, events
+8. Temporary tables
