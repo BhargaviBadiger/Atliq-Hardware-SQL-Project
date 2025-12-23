@@ -26,7 +26,7 @@ The company has 3 channels to sell their products to consumers, these are:
    ![forecast_accuracy_result](forecast_accuracy_result.png)
    ![top n customers](top n customers by net sales.png)
    ![top n markets](top n markets by net sales.png)
-   ![top n products]()
+   ![top n products](top n products by net sales.png)
 5. Database views: creating views for net_sales, post invoice discount sales and pre invoice discount sales
    ![net_sales]()
    ![postinv_dis]()
