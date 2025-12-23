@@ -4,14 +4,14 @@
 Analyzing the dataset of a hardware company to perform finance analytics to find top customers,products,markets and supply chain analytics.
 
 ## Overview
-This project aims at analyzing the dataset from a company called Atliq Hardware that sells pc, mouse, keyboards, printers,etc to customers. Here comapny has different range of customerrs like Brick & Motar and Online stores.These customers then sell the products to end users. 
+This project aims at analyzing the dataset from a company called Atliq Hardware that sells pc, mouse, keyboards, printers,etc to customers. Here company has different range of customers like Brick & Motar and Online stores.These customers then sell the products to end users. 
 The company has 3 channels to sell their products to consumers, these are: 
 1. Retailers (which inculde Brick & Motar and Online Stores)
-2. Direct Sales : they have their own online stores called AtliQ Direct E-Stores and exclusive showrooms called AtliQ Exclusive showrooms
+2. Direct Sales : the company has its own online stores called AtliQ Direct E-Stores and exclusive showrooms called AtliQ Exclusive showrooms
 3. Distributors
 
 ## Problem Statement
-1. Finance Analytics: To analyze the dataset to find the gross sales report for monthly product transactions, total sales amount, yearly sales report and marlet badge
+1. Finance Analytics: To analyze the dataset to find the gross sales report for monthly product transactions, total sales amount, yearly sales report and market badge
 2. Analyzing the data to find top customers, products and markets
 3. Supply Chain Analytics : analzing the data to come up with the forecast accuracy report.
 
