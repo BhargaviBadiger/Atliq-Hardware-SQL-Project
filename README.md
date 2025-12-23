@@ -23,7 +23,7 @@ The company has 3 channels to sell their products to consumers, these are:
    ![fiscal_quarter](fiscal_quarter.png)
 4. Stored procedures: creating stored procedures for finding forecast_accuracy, top n customers, markets and products by net sales
    ![forecast_accuracy](forecast_accuracy.png)
-   ![forecast_accuracy_result]()
+   ![forecast_accuracy_result](forecast_accuracy_result.png)
    ![top n customers]()
    ![top n markets]()
    ![top n products]()
