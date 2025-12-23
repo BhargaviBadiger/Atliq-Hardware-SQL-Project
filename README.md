@@ -30,6 +30,6 @@ The company has 3 channels to sell their products to consumers, these are:
 5. Database views: creating views for net_sales, post invoice discount sales and pre invoice discount sales
    ![net_sales](net_sales.png)
    ![postinv_dis](sales_postinv_discount.png)
-   ![preinv_dis]()
+   ![preinv_dis](sales_preinv_discount.png)
 6. Database triggers, events
 7. Temporary tables
