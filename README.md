@@ -1,7 +1,7 @@
 # Atliq-Hardware-SQL-Project
 
 ## Objective
-Analyzing the dataset of a hardware company to perform finance analytics to find top customers,products,markets and supply chain analytics.
+Analyzing the dataset of a hardware company to perform finance analytics to find top customers,products,markets and understanding supply chain analytics through SQL.
 
 ## Overview
 This project aims at analyzing the dataset from a company called Atliq Hardware that sells pc, mouse, keyboards, printers,etc to customers. Here company has different range of customers like Brick & Motar and Online stores.These customers then sell the products to end users. 
